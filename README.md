@@ -1,7 +1,7 @@
 # 👨‍💻 Brayan Andrés Arévalo  
 💡 Junior Software Developer | Learning Laravel & PHP | Problem Solver  
 
-![Perfil](https://via.placeholder.com/150)  
+
 
 Soy un programador junior apasionado por el desarrollo web y el aprendizaje continuo. Busco oportunidades para aplicar mis conocimientos y seguir creciendo profesionalmente.  
 
